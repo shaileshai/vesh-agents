@@ -11,7 +11,7 @@ MRR, churn, ARPU, NRR — computed instantly from CSV, Stripe, or Postgres.
 
 Built on @OpenAI Agents SDK. BYOM via @LiteLLM.
 
-github.com/shailesht003/vesh-agents
+github.com/shaileshai/laxmi-agents
 
 ## Tweet 2
 
@@ -56,7 +56,7 @@ Want to contribute?
 - New verticals (Customer Success)
 - Jupyter notebook examples
 
-github.com/shailesht003/vesh-agents
+github.com/shaileshai/laxmi-agents
 
 ## Hashtags (add to Tweet 1)
 

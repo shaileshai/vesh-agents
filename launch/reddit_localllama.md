@@ -38,6 +38,6 @@ vesh analyze csv data.csv
 
 MCP server included — works with Cursor, Claude Desktop, etc.
 
-**GitHub:** https://github.com/shailesht003/vesh-agents (Apache 2.0)
+**GitHub:** https://github.com/shaileshai/laxmi-agents (Apache 2.0)
 
 Curious if anyone has tried running the OpenAI Agents SDK with local models via LiteLLM — would love to hear about performance with different model sizes.

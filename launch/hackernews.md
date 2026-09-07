@@ -6,7 +6,7 @@ Show HN: Vesh Agents – 6 AI agents that compute SaaS metrics from your data (O
 
 ## URL
 
-https://github.com/shailesht003/vesh-agents
+https://github.com/shaileshai/laxmi-agents
 
 ## First Comment (post this immediately after submitting)
 

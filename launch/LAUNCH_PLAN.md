@@ -3,7 +3,7 @@
 ## Pre-Launch Checklist (Do Before Posting Anywhere)
 
 - [ ] **Publish to PyPI** — `cd vesh-agents && source .venv/bin/activate && twine upload dist/*` (needs API token from https://pypi.org/manage/account/token/)
-- [ ] **Set social preview image** — Go to https://github.com/shailesht003/vesh-agents/settings → Social preview → Upload `social-preview.png`
+- [ ] **Set social preview image** — Go to https://github.com/shaileshai/laxmi-agents/settings → Social preview → Upload `social-preview.png`
 - [ ] **Verify `pip install vesh-agents`** works from PyPI
 - [ ] **Star your own repo** (yes, this matters for social proof)
 

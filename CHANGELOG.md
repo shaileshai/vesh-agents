@@ -26,4 +26,4 @@ All notable changes to this project will be documented in this file.
 - Credentials read from environment variables (STRIPE_API_KEY, PGUSER, PGPASSWORD) — never passed through LLM prompts
 - Vesh Cloud URL configurable via VESH_CLOUD_URL env var
 
-[0.1.0]: https://github.com/shailesht003/vesh-agents/releases/tag/v0.1.0
+[0.1.0]: https://github.com/shaileshai/vesh-agents/releases/tag/v0.1.0

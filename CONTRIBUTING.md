@@ -5,7 +5,7 @@ Thank you for your interest in contributing to Vesh Agents! We welcome contribut
 ## Quick Start
 
 ```bash
-git clone https://github.com/shailesht003/vesh-agents.git
+git clone https://github.com/shaileshai/vesh-agents.git
 cd vesh-agents
 python -m venv .venv
 source .venv/bin/activate  # Windows: .venv\Scripts\activate
@@ -39,7 +39,7 @@ ruff check .
 | **Metric definitions** | ARR, CAC, LTV, payback period |
 | **Performance** | Async improvements, caching, batch processing |
 
-Look for issues labeled [`good first issue`](https://github.com/shailesht003/vesh-agents/labels/good%20first%20issue) to find beginner-friendly tasks.
+Look for issues labeled [`good first issue`](https://github.com/shaileshai/vesh-agents/labels/good%20first%20issue) to find beginner-friendly tasks.
 
 ## Development Workflow
 
@@ -131,8 +131,8 @@ pytest --cov=vesh_agents --cov-report=term-missing
 
 ## Questions?
 
-- Open a [GitHub Discussion](https://github.com/shailesht003/vesh-agents/discussions) or issue
-- Tag `@shailesht003` for maintainer input
+- Open a [GitHub Discussion](https://github.com/shaileshai/vesh-agents/discussions) or issue
+- Tag `@shaileshai` for maintainer input
 
 ---
 

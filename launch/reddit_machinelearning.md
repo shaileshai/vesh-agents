@@ -8,7 +8,7 @@
 
 **TL;DR:** 6 specialized AI agents that form a pipeline: data extraction → entity resolution → metric computation → anomaly detection → causal reasoning. Built on OpenAI Agents SDK, BYOM via LiteLLM.
 
-**GitHub:** https://github.com/shailesht003/vesh-agents
+**GitHub:** https://github.com/shaileshai/laxmi-agents
 
 ---
 
