@@ -247,3 +247,16 @@ Apache 2.0 — see [LICENSE](LICENSE) for details.
 <p align="center">
   Built with ❤️ by <a href="https://vesh-ai.netlify.app">Vesh AI</a>
 </p>
+
+---
+
+## Support
+
+Questions or issues? We're here to help:
+
+- **Issues:** https://github.com/shaileshai/vesh-agents/issues
+- **Discussions:** https://github.com/shaileshai/vesh-agents/discussions
+
+---
+
+Made with ❤️ by Shailesh
