@@ -48,6 +48,6 @@ vesh analyze csv your_stripe_export.csv
 - Entity resolution matches customers across multiple sources
 - Use your own LLM to get explanations ("Why did churn spike?")
 
-**GitHub:** https://github.com/shaileshai/laxmi-agents
+**GitHub:** https://github.com/shaileshai/vesh-agents
 
 We're adding more connectors (HubSpot, Salesforce, BigQuery) — if you want a specific one, open an issue and we'll prioritize it.

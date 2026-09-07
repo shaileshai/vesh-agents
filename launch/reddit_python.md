@@ -38,7 +38,7 @@ Orchestrator → DataConnector → EntityResolver → MetricComputer → Anomaly
 Each agent has its own tools and instructions. The orchestrator delegates via handoffs based on natural language queries.
 
 **Links:**
-- GitHub: https://github.com/shaileshai/laxmi-agents
+- GitHub: https://github.com/shaileshai/vesh-agents
 - Apache 2.0 licensed
 - Contributions welcome — 15 open issues labeled "good first issue"
 
